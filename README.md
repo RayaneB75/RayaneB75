@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RayaneB75
+- 👀 I’m interested in data analysis and virtualization
+- 🌱 I’m currently learning networks and telecommunications
+- 💞️ I’m looking to collaborate on big data softwares
+- 📫 How to reach me : rayane.belkhir13@gmail.com / rayane.belkhir@orange.com
