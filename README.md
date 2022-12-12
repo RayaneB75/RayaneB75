@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RayaneB75
-- 👀 I’m interested in big data and cyber sec
-- 🌱 I'm currently a DevSecOps Engineer working for Orange Cyberdefense
-- 💞️ I’m looking to collaborate on big data softwares
+- 👀 Interested in big data and cyber sec
+- 🌱 Currently a DevSecOps Engineer working for Orange Cyberdefense
+- 💞️ Looking to collaborate on big data softwares
 - 📫 How to reach me : pro@rayane.space
