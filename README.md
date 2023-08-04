@@ -2,4 +2,4 @@
 - 👀 Interested in big data and cyber sec
 - 🌱 Currently a DevSecOps Engineer working for Orange Cyberdefense
 - 💞️ Looking to collaborate on big data softwares
-- 📫 How to reach me : pro@rayane.space
+- 📫 How to reach me : pro@rayanebelkhir.fr
